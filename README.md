@@ -1,6 +1,6 @@
 ### ✨ This is my work account 🖥️ ✨
 
-- 🥽 I’m currently working on all sorts of Next Generation Sequencing 🧬 as the Principal Engineer 👷 at [M2GEN](https://www.m2gen.com/) on the SRE team; running cromwell🐖, nextflow, etc. on Azure
+- 🥽 I’m currently working on all sorts of Next Generation Sequencing 🧬 focused on cancer research 🔬 as the Principal Engineer 👷 at [M2GEN](https://www.m2gen.com/) on the SRE team; running cromwell🐖, nextflow, etc. on Azure
 
 - 💬 Ask me about NGS, Azure, Bicep
 
