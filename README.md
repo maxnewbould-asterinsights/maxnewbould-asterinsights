@@ -7,3 +7,5 @@
 - 👨‍💻 Coding polyglot: from Erlang to node, Kubernetes, eBPF(go cilium🐝!), Concourse, ADO and most things in between.
 
 - Past lives include: 🇺🇸 [Rebellion Defense](https://rebelliondefense.com/), 🚘 [Autonomic](https://autonomic.com/) (acq by Ford), MySpace/Fox Interactive Media, and founder of [Sourcepoint](https://sourcepoint.com/) (privacy platform still running after 10 years)
+
+![aster](aster.png)
